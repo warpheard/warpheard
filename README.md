@@ -7,5 +7,5 @@
 <div>
   <a href="https://github.com/warpheard">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=warpheard&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/top-langs/api?username=warpheard&layout=compact&langs_count=16&show_icons=true&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=warpheard&layout=compact&langs_count=16&show_icons=true&theme=radical"/>
 </div>
