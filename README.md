@@ -1,7 +1,6 @@
 ## Oii, meu nome é Leticia 👋
 
 - 📚 Estudante de Analise e Desenvolvimento de Sistemas
-- 
 - 😄 Pronomes: Ela/dela
 - ✨ Fun fact: Eu amo videogames, faz parte de quem sou!
 
