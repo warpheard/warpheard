@@ -1,6 +1,6 @@
 ## **Olá! Bem-vindo ao meu perfil!**
 
-<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/ad20231f-5394-4178-a149-8c9d8affbaf6" />
+<img align="right" height="280" src="https://64.media.tumblr.com/13046f74f1f9ef0a8c7e29bc65e07137/5c7b54e71496f51e-9d/s500x750/73cf7434560aebf21b525a26a099cee63c209e69.gifv" />
 
 💻 Cursando Analise e Desenvolvimento de Sistemas na Unicesumar
 
