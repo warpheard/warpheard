@@ -36,9 +36,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1756C9" />
 </div>
 
-<h2 align="center">GitHub Stats | Top Languages</h2>
+<h2 align="left">GitHub Stats | Top Languages</h2>
 
-<div align="center">
+<div align="left">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=warpheard&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&icon_color=512BD4&locale=pt-br"  /><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=warpheard&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=6" />
 </div>
 
