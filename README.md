@@ -39,7 +39,7 @@
 <h2 align="left">GitHub Stats | Top Languages</h2>
 
 <div align="left">
-  <img src="https://ghstats.dev/api/card?username=warpheard&theme=sunset&hide_border=true&border_radius=3&hide=issues%2Cfollowers%2Cstars" alt="GitHub Stats Card" />  /><<img src="https://ghstats.dev/api/langs?username=warpheard&theme=sunset&hide_border=true&layout=vertical_list" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=warpheard&theme=sunset&hide_border=true&border_radius=3&hide=issues%2Cfollowers%2Cstars" alt="GitHub Stats Card" /><img src="https://ghstats.dev/api/langs?username=warpheard&theme=sunset&hide_border=true&layout=vertical_list" alt="Top Languages" />
 </div>
 
 <div>
