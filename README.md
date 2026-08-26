@@ -24,7 +24,7 @@
 
 ### 🛠️ Ferramentas
 
-![GitHub](https://img.shields.io/badge/GitHub-512BD4?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 
 <div>
