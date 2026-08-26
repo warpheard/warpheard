@@ -45,14 +45,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1756C9" />
 </div>
-
-## 📫 Contato
-
-<div align="left">
-  <a href="mailto:letibot4@gmail.com">
-    <img src="[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]" />
-  </a>
-  <a href="www.linkedin.com/in/leticia-botelho-949480380">
-    <img src="[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" />
-  </a>
-</div>
