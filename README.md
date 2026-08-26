@@ -5,12 +5,10 @@
 <img align="right" height="100" src="https://64.media.tumblr.com/af780f0c69bb7eaa7fd4c96c226412ac/c816776cabfb39a4-83/s540x810/40a52881673897d150bf37daf75733c95668c66f.gif"/>
 
 💻 Cursando Analise e Desenvolvimento de Sistemas na Unicesumar
-
+##
 🎮 Apaixonada por video-games
-
+##
 📚 Amo aprender novas áreas da tecnologia
-
-
 
 ###
 
