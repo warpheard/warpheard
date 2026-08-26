@@ -34,7 +34,8 @@
 <h2 align="center">GitHub Stats | Top Languages</h2>
 
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=warpheard&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&icon_color=512BD4&locale=pt-br"  /><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=warpheard&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=6" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=warpheard&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&icon_color=512BD4&locale=pt-br"  
+    /><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=warpheard&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=7" />
 </div>
 
 <div>
