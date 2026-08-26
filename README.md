@@ -3,7 +3,9 @@
 ## Sobre mim
 
 💻 Cursando Analise e Desenvolvimento de Sistemas na Unicesumar
+
 🎮 Apaixonada por video-games
+
 📚 Amo aprender novas áreas da tecnologia
 
 ###
