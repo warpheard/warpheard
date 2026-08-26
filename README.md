@@ -1,9 +1,7 @@
 ## **Olá! Bem-vindo ao meu perfil!**
 
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=EE6465" />
-</div>
-
-<img align="right" height="100" src="https://64.media.tumblr.com/af780f0c69bb7eaa7fd4c96c226412ac/c816776cabfb39a4-83/s540x810/40a52881673897d150bf37daf75733c95668c66f.gif"/>
+<img align="right" height="100" src="<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/ad20231f-5394-4178-a149-8c9d8affbaf6" />
+"/>
 
 💻 Cursando Analise e Desenvolvimento de Sistemas na Unicesumar
 
